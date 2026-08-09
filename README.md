@@ -4,7 +4,7 @@
 
 > Building practical systems at the intersection of Data, Cloud and Software Engineering.
 
-I'm a B.Tech Data Science student interested in building real-world applications using data, cloud technologies and modern software engineering practices.
+I'm a B.Tech Data Science student interested in building real-world applications using ai, data, cloud technologies and modern software engineering practices.
 
 I enjoy turning ideas into working systems — from APIs and databases to containerized applications and cloud deployments.
 
