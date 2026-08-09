@@ -80,30 +80,39 @@ Data science project exploring housing data and predicting property prices using
 
 
 Linux
+
 ↓
 
 Networking Fundamentals
+
 ↓
 
 Cloud Computing Basics
+
 ↓
 
 AWS (Core Services)
+
 ↓
 
 Docker & Containers
+
 ↓
 
 CI/CD Pipelines
+
 ↓
 
 Infrastructure as Code (Terraform)
+
 ↓
 
 Kubernetes
+
 ↓
 
 DevOps Practices
+
 ↓
 
 Cloud Architecture & System Design
