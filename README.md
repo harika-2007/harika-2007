@@ -239,20 +239,13 @@ System Design
 
 ---
 
-## > stats
+> status
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harika-2007&show_icons=true&hide_border=true&theme=transparent" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harika-2007&show_icons=true&hide_border=true&theme=transparent" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harika-2007&hide_border=true&theme=transparent" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harika-2007&hide_border=true&theme=transparent" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika-2007&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika-2007&layout=compact&hide_border=true&theme=transparent" /> </p>
 ---
 
 ## > connect
