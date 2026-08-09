@@ -6,7 +6,7 @@
 
 ## > whoami
 
-I'm a Data Science student at Madanapalle Institute of Technology and Science, building practical foundations across Data Science, Cloud Computing, Backend Engineering, and DevOps.
+I'm a Data Science student at Madanapalle Institute of Technology and Science Deemed to be University, building practical foundations across Data Science, Cloud Computing, Backend Engineering, and DevOps.
 
 My work spans cloud-native applications, data analytics, AI-powered systems, full-stack development, and containerized deployments.
 
@@ -258,11 +258,11 @@ System Design
 ## > connect
 
 * GitHub — `harika-2007`
-* LinkedIn — Add your LinkedIn profile here
-* Email — Add your professional email here
+* LinkedIn — www.linkedin.com/in/harika-mallameeda-46b003321
+* Email — harika312007@gmail.com
 
 ---
 
-*Building practical systems, learning continuously, and growing from Data Science toward Cloud & DevOps Engineering.*
+*Building practical systems, learning continuously, and growing from Data Science towards AI, Cloud & DevOps Engineering.*
 
-Madanapalle Institute of Technology and Science · B.Tech Data Science
+Madanapalle Institute of Technology and Science - Deemed to be University · B.Tech Data Science
