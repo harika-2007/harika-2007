@@ -13,6 +13,7 @@ I enjoy turning ideas into working systems — from APIs and databases to contai
 ## 🚀 What I'm Working On
 
 * ☁️ Cloud Computing & AWS
+* 📈 Artificial Intelligence
 * 🐳 Docker & Containerization
 * ⚙️ DevOps & CI/CD
 * 🐍 Python
@@ -22,7 +23,6 @@ I enjoy turning ideas into working systems — from APIs and databases to contai
 * 🌐 Networking
 * 🔐 Cloud Security & Data Privacy
 
----
 
 ## 🛠️ Tech Stack
 
