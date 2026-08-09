@@ -4,7 +4,7 @@
 
 ---
 
-## > whoami
+## > who am i
 
 I'm a Data Science student at Madanapalle Institute of Technology and Science Deemed to be University, building practical foundations across Data Science, Cloud Computing, Backend Engineering, and DevOps.
 
