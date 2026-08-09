@@ -121,7 +121,14 @@ Cloud Architecture & System Design
 
 ## 📈 GitHub Activity
 
-[GitHub profile and project activity]
+🔥 Actively building projects in Data Science, Cloud, and DevOps
+🧠 Regularly working on improving and updating repositories
+🚀 Focused on real-world projects like AI Cloud Data Privacy Platform
+📌 Currently enhancing:
+Docker & CI/CD pipelines
+AWS & cloud deployment skills
+Full-stack integration of ML + backend systems
+📊 Continuously learning and pushing code to improve consistency and quality
 
 ---
 
