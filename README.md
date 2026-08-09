@@ -78,21 +78,25 @@ Data science project exploring housing data and predicting property prices using
 
 ## 📚 Currently Learning
 
-```text
-AWS
- ↓
 Linux
- ↓
-Networking
- ↓
-Docker
- ↓
-CI/CD
- ↓
-DevOps
- ↓
-Cloud Architecture
-```
+↓
+Networking Fundamentals
+↓
+Cloud Computing Basics
+↓
+AWS (Core Services)
+↓
+Docker & Containers
+↓
+CI/CD Pipelines
+↓
+Infrastructure as Code (Terraform)
+↓
+Kubernetes
+↓
+DevOps Practices
+↓
+Cloud Architecture & System Design
 
 ---
 
