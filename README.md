@@ -1,6 +1,6 @@
 # Hi, I'm Harika 👋
 
-### Data Science Student | Cloud & DevOps Enthusiast
+### Data Science Student | AI ,Cloud & DevOps Enthusiast
 
 > Building practical systems at the intersection of Data, Cloud and Software Engineering.
 
