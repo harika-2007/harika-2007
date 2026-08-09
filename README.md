@@ -48,8 +48,8 @@ learning:
 
 open_to:
   - Cloud Engineering
+  - AI Applications
   - DevOps
-  - Data Engineering
   - Backend Engineering
   - Data Science
 ```
