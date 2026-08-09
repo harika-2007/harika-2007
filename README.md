@@ -1,148 +1,268 @@
 # Hi, I'm Harika 👋
 
-### Data Science Student | AI ,Cloud & DevOps Enthusiast
-
-> Building practical systems at the intersection of Data, Cloud and Software Engineering.
-
-I'm a B.Tech Data Science student interested in building real-world applications using ai, data, cloud technologies and modern software engineering practices.
-
-I enjoy turning ideas into working systems — from APIs and databases to containerized applications and cloud deployments.
+> Data Science Student · Cloud & DevOps Enthusiast · Building Practical Systems
 
 ---
 
-## 🚀 What I'm Working On
+## > whoami
 
-* ☁️ Cloud Computing & AWS
-* 📈 Artificial Intelligence
-* 🐳 Docker & Containerization
-* ⚙️ DevOps & CI/CD
-* 🐍 Python
-* ☕ Java
-* 🗄️ SQL & DBMS
-* 📊 Data Science & Analytics
-* 🌐 Networking
-* 🔐 Cloud Security & Data Privacy
+I'm a Data Science student at Madanapalle Institute of Technology and Science, building practical foundations across Data Science, Cloud Computing, Backend Engineering, and DevOps.
 
+My work spans cloud-native applications, data analytics, AI-powered systems, full-stack development, and containerized deployments.
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-Python · Java · SQL · JavaScript
-
-**Data & AI**
-
-Pandas · NumPy · Scikit-learn · Jupyter · Transformers
-
-**Backend**
-
-FastAPI · REST APIs · PostgreSQL
-
-**Cloud & DevOps**
-
-AWS · Google Cloud · Docker · Git · GitHub Actions · Linux
-
-**Frontend**
-
-React · Vite · Tailwind CSS
+I care about building projects that solve real problems, understanding how systems work underneath, and continuously improving my engineering skills.
 
 ---
 
-## ⭐ Featured Projects
+## > about
 
-### 🔐 AI-Powered Cloud Data Privacy & Compliance Platform
+```yaml
+name: Harika Mallameeda
+role: B.Tech Data Science Student
+institution: Madanapalle Institute of Technology and Science
 
-Cloud-native platform for detecting sensitive information, assessing privacy risks and generating compliance insights.
+interests:
+  - Cloud Computing
+  - DevOps
+  - Data Science
+  - Backend Engineering
+  - AI Applications
+  - Cloud Security
+  - Data Privacy
 
-**Built with:** React · FastAPI · PostgreSQL · Docker · Google Cloud · Ollama · Terraform
+currently_building:
+  - AI-Powered Cloud Data Privacy Platform
+  - Cloud-native applications
+  - Dockerized full-stack systems
+  - AWS & DevOps projects
 
-### 🌾 Smart Crop Advisory System
+learning:
+  - Linux & Networking
+  - AWS Core Services
+  - Docker & Containers
+  - CI/CD
+  - Terraform
+  - Kubernetes
+  - Cloud Architecture
+  - System Design
 
-Decision-support application that provides crop recommendations and planning guidance using predefined rules and datasets.
-
-**Built with:** PHP · Data Processing · Web Technologies
-
-### 🎓 EduTrace
-
-Educational platform focused on tracking and managing learning-related information.
-
-**Built with:** TypeScript · React
-
-### 🏠 House Sales Prediction
-
-Data science project exploring housing data and predicting property prices using machine learning techniques.
-
-**Built with:** Python · Jupyter Notebook · Pandas · Scikit-learn
+open_to:
+  - Cloud Engineering
+  - DevOps
+  - Data Engineering
+  - Backend Engineering
+  - Data Science
+```
 
 ---
 
-## 📚 Currently Learning
+## > focus
 
+* **Cloud Computing** — AWS, cloud services, deployment, storage, networking and cloud architecture
+* **AI Applications** — NLP, LLM-powered applications, AI assistants and intelligent systems
+* **DevOps** — Docker, CI/CD, GitHub Actions, infrastructure automation and deployment workflows
+* **Backend Engineering** — FastAPI, REST APIs, PostgreSQL, authentication and scalable application architecture
+* **Data Science** — Python, Pandas, NumPy, data analysis, visualization and machine learning fundamentals
+* **Cloud Security & Privacy** — PII detection, risk assessment, compliance monitoring and secure cloud applications
+* **Full-Stack Development** — React, TypeScript, APIs, databases and containerized applications
 
+---
+
+## > tools
+
+### Languages
+
+`Python` `Java` `SQL` `JavaScript` `PHP`
+
+### Data & AI
+
+`Pandas` `NumPy` `Scikit-learn` `Jupyter` `PyTorch` `Transformers`
+
+### Backend
+
+`FastAPI` `REST APIs` `PostgreSQL` `SQLAlchemy`
+
+### Frontend
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+### Cloud & DevOps
+
+`AWS` `Google Cloud` `Docker` `Docker Compose` `GitHub Actions` `Terraform` `Linux`
+
+### Developer Tools
+
+`Git` `GitHub` `VS Code` `Postman`
+
+---
+
+## > projects
+
+### AI-Powered Cloud Data Privacy & Compliance Platform
+
+*Cloud-native platform for detecting sensitive data, assessing privacy risks and monitoring compliance*
+
+**Problem:** Organizations need better visibility into sensitive information stored in files and cloud environments.
+
+**Approach:** Built a full-stack platform that detects PII, calculates privacy risk, generates compliance reports, provides AI-powered recommendations, and monitors security findings through a centralized dashboard.
+
+**Engineering highlights:**
+
+* PII detection for sensitive information
+* Configurable privacy risk scoring
+* AI-powered compliance recommendations
+* Google OAuth 2.0 authentication
+* JWT authentication and RBAC
+* PostgreSQL database
+* Google Cloud Storage integration
+* Google Cloud DLP integration
+* Pub/Sub event-driven architecture
+* Docker & Docker Compose
+* GitHub Actions CI/CD
+* Terraform infrastructure
+* React + FastAPI architecture
+
+```text
+Tech: React · FastAPI · PostgreSQL · Docker · Google Cloud · Terraform · Ollama
+```
+
+View Repository → `ai-cloud-data-privacy-platform`
+
+> **Engineering focus:** Cloud architecture, security, privacy engineering, containerization and full-stack system integration.
+
+---
+
+### Smart Crop Advisory System
+
+*Technology-driven decision-support system for crop recommendations and planning*
+
+**Problem:** Farmers need accessible decision support for selecting suitable crops and improving farming practices.
+
+**Approach:** Developed a system that analyzes user inputs using predefined rules and datasets to provide crop recommendations and crop-planning guidance through a user-friendly interface.
+
+**Engineering highlights:**
+
+* Rule-based recommendation system
+* Agricultural data processing
+* Crop recommendation workflow
+* User-friendly interface
+* Multilingual accessibility
+
+```text
+Tech: PHP · Data Processing · Web Technologies
+```
+
+View Repository → `Smart-Crop-Advisory-System`
+
+> **Project focus:** Applying software and data-driven decision support to real-world agricultural problems.
+
+---
+
+### EduTrace
+
+*Educational platform designed to organize and track learning-related information*
+
+**Problem:** Educational information can become difficult to manage when learning activities and records are distributed across different systems.
+
+**Approach:** Built a web-based application focused on organizing educational information through a modern frontend architecture.
+
+**Engineering highlights:**
+
+* Modern frontend architecture
+* Component-based development
+* TypeScript
+* User-focused interface
+* Structured application workflow
+
+```text
+Tech: TypeScript · React
+```
+
+View Repository → `edu_trace`
+
+---
+
+### House Sales Prediction
+
+*Data science project for exploring housing data and predicting property prices*
+
+**Problem:** Housing datasets contain multiple factors that influence property prices and require systematic analysis before prediction.
+
+**Approach:** Performed data exploration and analysis to understand relationships between housing features and sales prices and experimented with predictive modelling.
+
+**Engineering highlights:**
+
+* Exploratory Data Analysis
+* Data preprocessing
+* Feature analysis
+* Data visualization
+* Machine learning experimentation
+* Model evaluation
+
+```text
+Tech: Python · Jupyter Notebook · Pandas · NumPy · Scikit-learn
+```
+
+View Repository → `House-sales-prediction`
+
+> **Project focus:** Building stronger foundations in data analysis and machine learning through practical datasets.
+
+---
+
+## > currently_learning
+
+```text
 Linux
-
-↓
-
+  ↓
 Networking Fundamentals
-
-↓
-
+  ↓
 Cloud Computing Basics
-
-↓
-
-AWS (Core Services)
-
-↓
-
+  ↓
+AWS Core Services
+  ↓
 Docker & Containers
-
-↓
-
+  ↓
 CI/CD Pipelines
-
-↓
-
-Infrastructure as Code (Terraform)
-
-↓
-
+  ↓
+Infrastructure as Code
+  ↓
+Terraform
+  ↓
 Kubernetes
-
-↓
-
+  ↓
 DevOps Practices
-
-↓
-
-Cloud Architecture & System Design
-
----
-
-## 📈 GitHub Activity
-
-🔥 Actively building projects in Data Science, Cloud, and DevOps
-
-🧠 Regularly working on improving and updating repositories
-
-🚀 Focused on real-world projects like AI Cloud Data Privacy Platform
-
-📌 Currently enhancing:
-
-Docker & CI/CD pipelines
-
-AWS & cloud deployment skills
-
-Full-stack integration of ML + backend systems
-
-📊 Continuously learning and pushing code to improve consistency and quality
+  ↓
+Cloud Architecture
+  ↓
+System Design
+```
 
 ---
 
-## 🤝 Let's Connect
+## > stats
 
-I'm interested in opportunities involving:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harika-2007&show_icons=true&hide_border=true&theme=transparent" />
+</p>
 
-**Cloud • DevOps • Data Science • Backend Engineering • AI Applications**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harika-2007&hide_border=true&theme=transparent" />
+</p>
 
-Thanks for visiting my profile! ⭐
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika-2007&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## > connect
+
+* GitHub — `harika-2007`
+* LinkedIn — Add your LinkedIn profile here
+* Email — Add your professional email here
+
+---
+
+*Building practical systems, learning continuously, and growing from Data Science toward Cloud & DevOps Engineering.*
+
+Madanapalle Institute of Technology and Science · B.Tech Data Science
